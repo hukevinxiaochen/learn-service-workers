@@ -2,7 +2,7 @@
 const title = document.getElementById("title");
 title.style.color = "blue";
 
-// It can also register a service worker
+// It can also register a service worker.
 
 /**
  * REGISTRATION
